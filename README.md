@@ -3,7 +3,10 @@
 </p>
 
 <hr></hr>
-## 👨‍💻 Sean Collymore Jr
+
+<h1>
+  👨‍💻 Sean Collymore Jr
+</h1> 
 
 <p dir="auto">
   <strong>

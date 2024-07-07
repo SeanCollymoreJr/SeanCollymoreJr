@@ -1,5 +1,5 @@
 <p dir="auto">
-  <img width="400px" height="auto" src="https://github.com/SeanCollymoreJr/SeanCollymoreJr/assets/174896134/f1f03f54-b660-4436-86a4-5f124c0f4bbd" style="padding-right:10px;" />
+  <img width="600px" height="auto" src="https://github.com/SeanCollymoreJr/SeanCollymoreJr/assets/174896134/f1f03f54-b660-4436-86a4-5f124c0f4bbd" style="padding-right:10px;" />
 </p>
 
 <hr></hr>
